@@ -8,6 +8,8 @@ This is a timeseries data set repersenting transactions that entered the Bitcoin
 
 ### Questions and Instructions
 
+Your solutions should be in the form of a python notebook or python program. Non-code questions can be answered in comments.
+
 #### Data import and cleaning
 
 <ol>
