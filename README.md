@@ -22,7 +22,7 @@ Your solutions should be in the form of a python notebook or python program. Non
     <li>Re-plot `mempooldate` after the solution is applied </li>
     <li>Convert `mempooldate` from unix timestamp to a python date time object. And apply your transformation to the whole dataframe </li>
     <li>Set `mempooldate` as the primary index for original dataframe </li>
-    <li>Do all rows have a unique index? If not, how many rows have overlapping indecies <l/i>
+    <li>Do all rows have a unique index? If not, how many rows have overlapping indecies </li>
     <li>Group each row by unique index. If two rows have the same index, take the mean of the all the column values. Apply this transformation to the original dataframe</li>
     <li>Resample data set at 15 seconnd intervals and forward fill when NaNs are created</li>
     <li>Lets say `txid` was sensative information (its not). Sanatize `txid` in such a way that the original data cannot be derived but with the original data when can verify the sanatized version is valid.</li>
