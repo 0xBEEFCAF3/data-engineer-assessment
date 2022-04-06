@@ -53,6 +53,6 @@ Your solutions should be in the form of a python notebook or python program. Non
 <ol>
     <li>Save each plot in a seperate dir `img/`</li>
     <li>Use a virtualenv and save dependencies in `requirments.txt`</li>
-    <li>Provide instructions on how to install dependencies and run solutino</li>
+    <li>Provide instructions on how to install dependencies and run solutinon</li>
     
 </ol>
