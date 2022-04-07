@@ -39,7 +39,7 @@ Your solutions should be in the form of a python notebook or python program. Non
     <li>Plot every column over time</li>
     <li>Plot a violin char for each column</li>
     <li>Are there any strong (both negative or positive) correlations between features?</li>
-    <li>Plot the distributions for each feature <li>
+    <li>Plot the distributions for each feature </li>
     <li>How many rows have a non-NaN value for `conf`?</li>
     <li>Create a new column called `confimationtime`. The value for this column should be `mempooldate` - `conf`. If `conf` is NaN leave, `confimationtime` leave the value as NaN</li>
     <li>Export the dataframe to parquet partitions</li>
